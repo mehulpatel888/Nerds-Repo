@@ -1,2 +1,2 @@
 # Nerds-Repo
-personal git learning repo
+git of all oyur code, code notes, projects, images and so on
